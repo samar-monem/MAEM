@@ -20,10 +20,12 @@ The datasets used in the paper is the O'neil benchmark dataset.
    
  # Usage
      The 'train/ help_functions' contain the processing functions to input data to the 'train/ model'  MAEM implementation. 
-     The  'train/ rub' shows an examples of running code. first it applien the processing data for each view of drug and cancer cell line. Then, the model is trained and can        predict new drug combinations. 
+     The  'train/ rub' shows an examples of running code. first it applien the processing data for each view of drug and cancer cell line. Then, the model is trained and can predict new drug combinations. 
 # Dependencies
     xlrd==2.0.1 
     Pandas==1.3.5
     tensorflow == 2.13.0
     numpy==1.24.3
+
+# Citation
  
